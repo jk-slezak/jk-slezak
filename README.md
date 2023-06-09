@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Angular and how to build web scrapers using Puppeteer
+- 🌱 I’m currently learning Next.js and how to build web scrapers using Puppeteer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakub-ślęzak-542721269/)
 
 <!--

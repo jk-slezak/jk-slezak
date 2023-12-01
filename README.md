@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Next.js and how to build web scrapers using Puppeteer
+- 🔭 I’m currently working on react app in container
+- 🌱 I’m currently learning Docker and how containers work
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakub-ślęzak-542721269/)
 
 <!--

@@ -1,7 +1,8 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on react app in container
-- 🌱 I’m currently learning Docker and how containers work
+My name is Jakub Ślęzak. I’m frontend developer.
+- 🔭 I’m currently working on building React apps in containers
+- 🌱 I’m currently learning Docker, how containers work and Vite.
+- 🤔 I`m planning in the near future to learn Symfony and refresh my knowledge of PHP.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakub-ślęzak-542721269/)
 
 <!--

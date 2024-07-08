@@ -1,9 +1,11 @@
 ### Hi there 👋
 My name is Jakub Ślęzak. I’m frontend developer.
-- 🔭 I’m currently working on building React apps in containers
-- 🌱 I’m currently learning Docker, how containers work and Vite.
-- 🤔 I`m planning in the near future to learn Symfony and refresh my knowledge of PHP.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakub-ślęzak-542721269/)
+- 🔭 I’m currently working on building frontend for websites.
+- 🌱 I’m currently learning PHP, Symfony framework and Docker.
+- 🤔 I`m planning in the near future to build fullstack aplication with Symfony and React.
+- 💬 Ask me about fronendt or backend.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakub-ślęzak-542721269/).
+- ⚡ Fun fact: As a kid I wanted to become a hacker.
 
 <!--
 **jk-slezak/jk-slezak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

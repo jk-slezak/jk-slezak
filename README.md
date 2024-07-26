@@ -3,7 +3,7 @@ My name is Jakub Ślęzak. I’m frontend developer.
 - 🔭 I’m currently working on building frontend for websites.
 - 🌱 I’m currently learning PHP, Symfony framework and Docker.
 - 🤔 I`m planning in the near future to build fullstack application with Symfony and React.
-- 💬 Ask me about fronendt or backend.
+- 💬 Ask me anything about frontend.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakub-ślęzak-542721269/).
 - ⚡ Fun fact: As a kid I wanted to become a hacker.
 

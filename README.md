@@ -3,7 +3,7 @@ My name is Jakub Ślęzak. I’m frontend developer.
 - 🔭 I’m currently working on my [blog](https://github.com/jk-slezak/ruby-on-rails-blog).
 - 🌱 I’m currently learning Ruby on Rails and improving my skills with React and Redux.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jakub-ślęzak-542721269/).
-- ⚡ Fun fact: As a kid I wanted to become a hacker (white hat hacker as I found out later).
+- ⚡ Fun fact: As a kid I wanted to become a white hat hacker.
 
 <!--
 **jk-slezak/jk-slezak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

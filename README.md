@@ -1,8 +1,8 @@
 ### Hi, I'm Jakub 👋
 
-Frontend developer with 4+ years of commercial experience building web apps in **React and TypeScript**, and the backend skills to ship features end to end. I turn Figma designs into accessible, responsive, pixel-perfect UIs. I've also delivered complete WordPress projects: custom Gutenberg blocks and ACF, then hosting, DNS and handover to the client.
+Fullstack developer with 4+ years of commercial experience building web apps in **React and TypeScript**, and the backend skills to ship features end to end. I turn Figma designs into accessible, responsive, pixel-perfect UIs. I've also delivered complete WordPress projects: custom Gutenberg blocks and ACF, then hosting, DNS and handover to the client.
 
-**Open to work:** Frontend / Fullstack Developer (React, TypeScript) · remote or hybrid (Zielona Góra, Poland) · [LinkedIn](https://www.linkedin.com/in/jakub-ślęzak-542721269/)
+**Open to work:** Fullstack Developer / Frontend (React, TypeScript) · remote or hybrid (Zielona Góra, Poland) · [LinkedIn](https://www.linkedin.com/in/jakub-ślęzak-542721269/)
 
 ---
 
